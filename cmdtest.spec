@@ -12,7 +12,7 @@ BuildRequires:	python-coverage-test-runner
 BuildRequires:	python-markdown
 BuildRequires:	python-ttystatus
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-cliapp
 Requires:	python-ttystatus
 BuildArch:	noarch
